@@ -17,10 +17,10 @@ export function HomeScreen(props) {
   const [showSlider, setShowSlider] = useState(false)
 
   // Component
-  const [email, setEmail] = useState('demo@demo.com')
+  const [email, setEmail] = useState('')
   const handleChangeEmail = (value) => setEmail(value)
 
-  const [password, setPassword] = useState('123')
+  const [password, setPassword] = useState('')
   const handleChangePassword = (value) => setPassword(value)
 
   // Validations
