@@ -1,12 +1,10 @@
-# Challenge solito 🕴
+# Challenge solito for Greener 🕴
 
 ```bash
 npm install --global expo-cli
 git clone ...
 cd my-solito-app
 ```
-
-👾 [View the website](https://example.solito.dev)
 
 ## 🔦 About
 
